@@ -1,0 +1,6 @@
+@ActionLogs_HostAddress = http://localhost:5133
+
+GET {{ActionLogs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
